@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Gl1tchClub's GitHub Stats](https://github-readme-stats-bay-omega-22.vercel.app/api?username=gl1tchclub&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dracula&bg_color=00000000)](https://github.com/gl1tchclub/github-readme-stats#gh-dark-mode-only)
+[![Gl1tchClub's GitHub Stats](https://github-readme-stats-bay-omega-22.vercel.app/api?username=gl1tchclub&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=shadow_red&bg_color=00000000)](https://github.com/gl1tchclub/github-readme-stats#gh-light-mode-only)
 <!--
 **gl1tchclub/gl1tchclub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
