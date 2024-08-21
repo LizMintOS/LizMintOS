@@ -29,15 +29,18 @@ I enjoy working on:
   - 🤖 Robotics & Embedded Systems
 - 📝 Currently learning Python for ML/AI
 - 👯 I’m looking to collaborate on making hardware projects!
-
+- 📫 Check out my [resume](https://github.com/user-attachments/files/16684158/liz.resume.pdf)
 
 ### ⚙️ Some Tool and Tech I use
 <code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://avatars1.githubusercontent.com/u/1517864?s=200&v=4"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code>
+<code><img height="30" src="https://github.com/user-attachments/assets/93e30ffb-bcdb-45ca-b45c-42eae0280b0d"></code>
+<code><img height="30" src="https://github.com/user-attachments/assets/14acdd83-faa3-4aed-8f18-721394bba44d"></code>
+<code><img height="30" src="https://github.com/user-attachments/assets/e177808a-c881-4a62-9d60-1065ae62de3d"></code>
+<code><img height="30" src="https://github.com/user-attachments/assets/647cda45-b1f1-4f4e-9d55-6ac4a7875fc5"></code>
 
 <!--
 - 🔭 I’m currently working on ...
