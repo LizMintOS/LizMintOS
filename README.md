@@ -3,13 +3,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Black+Ops+One&size=40&duration=3000&pause=1000&color=E10000D7&center=true&multiline=true&repeat=false&width=435&height=75&lines=Agent+Operative%3A+Liz)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Black+Ops+One&size=30&duration=3500&pause=1000&color=766B6DD7&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=Software+Developer)](https://git.io/typing-svg)
-</div>
 
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/gl1tchclub/)](https://github.com/gl1tchclub/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eminty)](https://www.linkedin.com/in/eminty)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/eminty_me)](https://www.hackerrank.com/eminty_me)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eminty.me@gmail.com)](mailto:eminty.me@gmail.com)
+</div>
 
 ### Mission Brief  
 <div align="center">
