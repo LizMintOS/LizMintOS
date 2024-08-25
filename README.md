@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Black+Ops+One&size=40&duration=3000&pause=1000&color=E10000D7&center=true&multiline=true&repeat=false&width=435&height=75&lines=Agent+Operative%3A+Liz)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Black+Ops+One&size=40&duration=3000&pause=1000&color=E10000D7&center=true&multiline=true&repeat=false&width=435&height=75&lines=Liz+Minty)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Black+Ops+One&size=30&duration=3500&pause=1000&color=766B6DD7&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=Software+Developer)](https://git.io/typing-svg)
 
