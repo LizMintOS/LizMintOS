@@ -22,12 +22,13 @@ I'm a **2nd Year Student🎓 [@ Otago Polytechnic 🔵](www.op.ac.nz)** majoring
 
 ## Specializations
 - 🔭 I’m currently working as a programming and maths tutor [@ Otago Polytechnic 🔵](https://www.op.ac.nz/)
+- 👩‍💻 As of November 2024, I'm also a Software Engineer Intern [@ Education Perfect 🎓](https://www.educationperfect.com/)
 
 I enjoy working on:
-  - 📊 Machine Learning & Data Science
-  - 🖼 App Development
+  - 📊 Machine Learning
+  - 🖼 Mobile App Development
   - 🤖 Robotics & Embedded Systems
-- 📝 Currently learning Python for ML/AI
+- 📝 Currently learning GraphQL and TypeScript
 - 👯 I’m looking to collaborate on making hardware projects!
 - 📫 Check out my [resume](https://github.com/user-attachments/files/16684158/liz.resume.pdf)
 
@@ -41,15 +42,6 @@ I enjoy working on:
 <code><img height="30" src="https://github.com/user-attachments/assets/14acdd83-faa3-4aed-8f18-721394bba44d"></code>
 <code><img height="30" src="https://github.com/user-attachments/assets/e177808a-c881-4a62-9d60-1065ae62de3d"></code>
 <code><img height="30" src="https://github.com/user-attachments/assets/647cda45-b1f1-4f4e-9d55-6ac4a7875fc5"></code>
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
