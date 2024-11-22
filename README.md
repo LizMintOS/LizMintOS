@@ -32,7 +32,7 @@ I enjoy working on:
 - 👯 I’m looking to collaborate on making hardware projects!
 - 📫 Check out my [resume](https://github.com/user-attachments/files/16684158/liz.resume.pdf)
 
-### ⚙️ Some Tool and Tech I use
+### ⚙️ Some Tools and Tech I use
 <code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4"></code>
@@ -42,8 +42,7 @@ I enjoy working on:
 <code><img height="30" src="https://github.com/user-attachments/assets/14acdd83-faa3-4aed-8f18-721394bba44d"></code>
 <code><img height="30" src="https://github.com/user-attachments/assets/e177808a-c881-4a62-9d60-1065ae62de3d"></code>
 <code><img height="30" src="https://github.com/user-attachments/assets/647cda45-b1f1-4f4e-9d55-6ac4a7875fc5"></code>
-- ⚡ Fun fact: ...
--->
+
 
 [![Gl1tchClub's GitHub Stats](https://github-readme-stats-bay-omega-22.vercel.app/api?username=gl1tchclub&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dracula&bg_color=00000000)](https://github.com/gl1tchclub/github-readme-stats#gh-dark-mode-only)
 [![Gl1tchClub's GitHub Stats](https://github-readme-stats-bay-omega-22.vercel.app/api?username=gl1tchclub&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=shadow_red&bg_color=00000000)](https://github.com/gl1tchclub/github-readme-stats#gh-light-mode-only)
