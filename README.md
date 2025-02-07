@@ -18,14 +18,14 @@
 
 **Objective:** To infiltrate and dominate the digital realm with cutting-edge technology solutions. 
 
-I'm a **2nd Year Student🎓 [@ Otago Polytechnic 🔵](www.op.ac.nz)** majoring in IT. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with physical systems. I love building interesting and meaningful products that serve a great deal of purpose.
+I'm a **3rd Year Student🎓 [@ Otago Polytechnic 🔵](www.op.ac.nz)** majoring in IT. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with physical systems. I love building interesting and meaningful products that serve a great deal of purpose.
 
 ## Specializations
 - 🔭 I’m currently working as a programming and maths tutor [@ Otago Polytechnic 🔵](https://www.op.ac.nz/)
-- 👩‍💻 As of November 2024, I'm also a Software Engineer Intern [@ Education Perfect 🎓](https://www.educationperfect.com/)
+- 👩‍💻 Interned at [@ Education Perfect 🎓](https://www.educationperfect.com/) as a Software Engineer for team Lexicon
 
 I enjoy working on:
-  - 📊 Machine Learning
+  - 📊 AI Features
   - 🖼 Mobile App Development
   - 🤖 Robotics & Embedded Systems
 - 📝 Currently learning GraphQL and TypeScript
@@ -42,6 +42,10 @@ I enjoy working on:
 <code><img height="30" src="https://github.com/user-attachments/assets/14acdd83-faa3-4aed-8f18-721394bba44d"></code>
 <code><img height="30" src="https://github.com/user-attachments/assets/e177808a-c881-4a62-9d60-1065ae62de3d"></code>
 <code><img height="30" src="https://github.com/user-attachments/assets/647cda45-b1f1-4f4e-9d55-6ac4a7875fc5"></code>
+<code><img height="30" src="https://github.com/user-attachments/assets/995ce8cd-4668-47df-a83e-ce831e05b076"></code>
+<code><img height="30" src="https://github.com/user-attachments/assets/db17b2be-4489-407c-b82c-f0202c2f83da"></code>
+<code><img height="30" src="https://github.com/user-attachments/assets/eb2b712a-89c1-4b59-8a1f-e3784c3e66dd"></code>
+<code><img height="30" src="https://github.com/user-attachments/assets/64ebdf23-af5d-4c33-a712-e0e8a709ef4f"></code>
 
 
 [![Gl1tchClub's GitHub Stats](https://github-readme-stats-bay-omega-22.vercel.app/api?username=gl1tchclub&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dracula&bg_color=00000000)](https://github.com/gl1tchclub/github-readme-stats#gh-dark-mode-only)
