@@ -30,7 +30,8 @@ I enjoy working on:
   - 🤖 Robotics & Embedded Systems
 - 📝 Currently learning GraphQL and TypeScript
 - 👯 I’m looking to collaborate on making hardware projects!
-- 📫 Check out my [resume](https://github.com/user-attachments/files/16684158/liz.resume.pdf)
+- 📫 Check out my [resume](https://github.com/user-attachments/files/19241049/Elizabeth.CV.pdf)
+
 
 ### ⚙️ Some Tools and Tech I use
 <code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
