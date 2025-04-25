@@ -49,5 +49,5 @@ I enjoy working on:
 <code><img height="30" src="https://github.com/user-attachments/assets/64ebdf23-af5d-4c33-a712-e0e8a709ef4f"></code>
 
 
-[![Gl1tchClub's GitHub Stats](https://github-readme-stats-bay-omega-22.vercel.app/api?username=gl1tchclub&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dracula&bg_color=00000000)](https://github.com/gl1tchclub/github-readme-stats#gh-dark-mode-only)
-[![Gl1tchClub's GitHub Stats](https://github-readme-stats-bay-omega-22.vercel.app/api?username=gl1tchclub&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=shadow_red&bg_color=00000000)](https://github.com/gl1tchclub/github-readme-stats#gh-light-mode-only)
+[![Gl1tchClub's GitHub Stats](https://github-readme-stats-bay-omega-22.vercel.app/api?username=LizMintOS&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dracula&bg_color=00000000)](https://github.com/gl1tchclub/github-readme-stats#gh-dark-mode-only)
+[![Gl1tchClub's GitHub Stats](https://github-readme-stats-bay-omega-22.vercel.app/api?username=LizMintOS&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=shadow_red&bg_color=00000000)](https://github.com/gl1tchclub/github-readme-stats#gh-light-mode-only)
