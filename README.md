@@ -2,7 +2,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Black+Ops+One&size=40&duration=3000&pause=1000&color=E10000D7&center=true&multiline=true&repeat=false&width=435&height=75&lines=Liz+Minty)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Black+Ops+One&size=30&duration=3500&pause=1000&color=766B6DD7&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Black+Ops+One&size=30&duration=3500&pause=1000&color=766B6DD7&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=Hardware+Developer)](https://git.io/typing-svg)
 
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/gl1tchclub/)](https://github.com/LizMintOS/) 
@@ -18,27 +18,32 @@
 
 **Objective:** To infiltrate and dominate the digital realm with cutting-edge technology solutions. 
 
-I'm a **3rd Year Student🎓 [@ Otago Polytechnic 🔵](www.op.ac.nz)** majoring in IT. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with physical systems. I love building interesting and meaningful products that serve a great deal of purpose.
+I'm a **3rd Year IT Student 🎓 [@ Otago Polytechnic 🔵](www.op.ac.nz)** majoring in **Hardware Engineering & Project Management**. I'm a Tech Enthusiast 💻😃 passionate about learning and working with physical systems. I love building interesting and meaningful products that serve a great deal of purpose.
 
 ## Specializations
-- 🔭 I’m currently working as a programming and maths tutor [@ Otago Polytechnic 🔵](https://www.op.ac.nz/)
+- 🧑‍🏫 I’m currently working as a Tutor and a Teaching Assistant [@ Otago Polytechnic 🔵](https://www.op.ac.nz/)
+- 📋 I'm also working as a Planning Technician Officer [@ Dunedin City Council 🟢](https://www.dunedin.govt.nz/home)
 - 👩‍💻 Interned at [@ Education Perfect 🎓](https://www.educationperfect.com/) as a Software Engineer for team Lexicon
 
 I enjoy working on:
-  - 📊 AI Features
-  - 🖼 Mobile App Development
+  - 📊 Developing AI tools (RAG, CNN for Image Recognition)
+  - 🖼  Mobile App Development
   - 🤖 Robotics & Embedded Systems
-- 📝 Currently learning GraphQL and TypeScript
+- 📝 Currently learning Radio Frequency Fundamentals and RTOS Basics
 - 👯 I’m looking to collaborate on making hardware projects!
 - 📫 Check out my [resume](https://github.com/user-attachments/files/19241049/Elizabeth.CV.pdf)
 
 
 ### ⚙️ Some Tools and Tech I use
 <code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"></code>
+<code><img height="30" src="https://symbols.getvecta.com/stencil_27/79_sql-database-generic.494ff6320e.png"></code>
+<code><img height="30" src="https://img.favpng.com/8/25/13/bash-scalable-vector-graphics-logo-printf-format-string-bourne-shell-png-favpng-JsQTcBsn2AH61CTpm6gZShPJk.jpg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code>
+<code><img height="30" src="https://www.clipartmax.com/png/middle/2-25082_clipartist-open-clipart-library-linux-linux-logo.png"></code>
 <code><img height="30" src="https://github.com/user-attachments/assets/93e30ffb-bcdb-45ca-b45c-42eae0280b0d"></code>
 <code><img height="30" src="https://github.com/user-attachments/assets/14acdd83-faa3-4aed-8f18-721394bba44d"></code>
 <code><img height="30" src="https://github.com/user-attachments/assets/e177808a-c881-4a62-9d60-1065ae62de3d"></code>
