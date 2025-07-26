@@ -11,6 +11,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eminty.me@gmail.com)](mailto:eminty.me@gmail.com)
 </div>
 
+### Mission Brief  
+**Objective:** To infiltrate and dominate the digital realm with cutting-edge technology solutions. 
+
+I'm a **3rd Year IT Student 🎓 [@ Otago Polytechnic 🔵](www.op.ac.nz)** majoring in **Hardware Engineering & Project Management**. I'm a Tech Enthusiast 💻😃 passionate about learning and working with physical systems. I love building interesting and meaningful products that serve a great deal of purpose.
+
 ### Main Projects
 |Project|Role|Tech Stack|
 |---|---|---|
@@ -22,17 +27,10 @@
 |🎵 ['Sonus' AI Music Platform Website](https://github.com/LizMintOS/Sonus-Website) | Lead Web Developer | Svelte, HTML, CSS, JavaScript
 |♣️ [Poker Game Cross Platform App](https://github.com/LizMintOS/Mobile-Poker-Game) | Lead Developer | React.js, TypeScript, Firebase, IndexDB, LocalStorage, NoSQL, Jest testing, TailwindCSS
 
-### Mission Brief  
-**Objective:** To infiltrate and dominate the digital realm with cutting-edge technology solutions. 
-
-I'm a **3rd Year IT Student 🎓 [@ Otago Polytechnic 🔵](www.op.ac.nz)** majoring in **Hardware Engineering & Project Management**. I'm a Tech Enthusiast 💻😃 passionate about learning and working with physical systems. I love building interesting and meaningful products that serve a great deal of purpose.
-
 ## Specializations
 - 🧑‍🏫 I’m currently working as a Tutor and a Teaching Assistant [@ Otago Polytechnic 🔵](https://www.op.ac.nz/)
 - 📋 I'm also working as a Planning Technician Officer [@ Dunedin City Council 🟢](https://www.dunedin.govt.nz/home)
 - 👩‍💻 Interned at [@ Education Perfect 🎓](https://www.educationperfect.com/) as a Software Engineer for team Lexicon
-
-
 
 I enjoy working on:
   - 📊 Developing AI tools (RAG, CNN for Image Recognition)
