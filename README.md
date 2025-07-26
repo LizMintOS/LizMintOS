@@ -25,6 +25,8 @@ I'm a **3rd Year IT Student 🎓 [@ Otago Polytechnic 🔵](www.op.ac.nz)** majo
 - 📋 I'm also working as a Planning Technician Officer [@ Dunedin City Council 🟢](https://www.dunedin.govt.nz/home)
 - 👩‍💻 Interned at [@ Education Perfect 🎓](https://www.educationperfect.com/) as a Software Engineer for team Lexicon
 
+
+
 I enjoy working on:
   - 📊 Developing AI tools (RAG, CNN for Image Recognition)
   - 🖼  Mobile App Development
