@@ -11,11 +11,14 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eminty.me@gmail.com)](mailto:eminty.me@gmail.com)
 </div>
 
-### Mission Brief  
-<div align="center">
-<img src="https://static.wixstatic.com/media/95462a_cecaf57dc6264bcfa0d80512f0252372~mv2.gif" width="100"> 
-</div>
+### Main Projects
+[Embedded Fresh Air Monitoring System | C++, Arduino, LoRa, REST API, TypeScript, React.js, Node.js, CAD, Docker, Trello, Git Kanban](https://github.com/OtagoPolytechnic/Air-Quality-Monitoring-System/tree/liz-lilygo-work/hardware) - Lead Hardware Engineer & Project Manager
+['Tuteora' Tutoring Mobile App for Android | React.js, Android Studio, TailwindCSS, ShadCN](https://github.com/LizMintOS/tuteora) - Lead Developer
+: [Arcade Machine | Trello] 🚧 Link broken - Project Manager
+🪴 [Smart Plant Irrigation & Environment Monitoring System | C++, Arduino, I2C, CAD, CAM] 🚧 Link unavailable - Lead Embedded Engineer & Project Manager
+💧 [Smart Pot Watering System | C++, Arduino](https://github.com/LizMintOS/smart-pot) - Lead Engineer
 
+### Mission Brief  
 **Objective:** To infiltrate and dominate the digital realm with cutting-edge technology solutions. 
 
 I'm a **3rd Year IT Student 🎓 [@ Otago Polytechnic 🔵](www.op.ac.nz)** majoring in **Hardware Engineering & Project Management**. I'm a Tech Enthusiast 💻😃 passionate about learning and working with physical systems. I love building interesting and meaningful products that serve a great deal of purpose.
