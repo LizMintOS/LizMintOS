@@ -12,9 +12,9 @@
 </div>
 
 ### Main Projects
-[Embedded Fresh Air Monitoring System | C++, Arduino, LoRa, REST API, TypeScript, React.js, Node.js, CAD, Docker, Trello, Git Kanban](https://github.com/OtagoPolytechnic/Air-Quality-Monitoring-System/tree/liz-lilygo-work/hardware) - Lead Hardware Engineer & Project Manager
-['Tuteora' Tutoring Mobile App for Android | React.js, Android Studio, TailwindCSS, ShadCN](https://github.com/LizMintOS/tuteora) - Lead Developer
-: [Arcade Machine | Trello] 🚧 Link broken - Project Manager
+☁️ [Embedded Fresh Air Monitoring System | C++, Arduino, LoRa, REST API, TypeScript, React.js, Node.js, CAD, Docker, Trello, Git Kanban](https://github.com/OtagoPolytechnic/Air-Quality-Monitoring-System/tree/liz-lilygo-work/hardware) - Lead Hardware Engineer & Project Manager
+📱 ['Tuteora' Tutoring Mobile App for Android | React.js, Android Studio, TailwindCSS, ShadCN](https://github.com/LizMintOS/tuteora) - Lead Developer
+🎮 [Arcade Machine | Trello] 🚧 Link broken - Project Manager
 🪴 [Smart Plant Irrigation & Environment Monitoring System | C++, Arduino, I2C, CAD, CAM] 🚧 Link unavailable - Lead Embedded Engineer & Project Manager
 💧 [Smart Pot Watering System | C++, Arduino](https://github.com/LizMintOS/smart-pot) - Lead Engineer
 
