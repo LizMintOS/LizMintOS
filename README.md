@@ -2,7 +2,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Black+Ops+One&size=40&duration=3000&pause=1000&color=E10000D7&center=true&multiline=true&repeat=false&width=435&height=75&lines=Liz+Minty)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Black+Ops+One&size=30&duration=3500&pause=1000&color=766B6DD7&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=Hardware+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Black+Ops+One&size=30&duration=3500&pause=1000&color=766B6DD7&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=100&lines=Embedded+Systems+Developer)](https://git.io/typing-svg)
 
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/gl1tchclub/)](https://github.com/LizMintOS/) 
@@ -14,7 +14,7 @@
 ### Mission Brief  
 **Objective:** To infiltrate and dominate the digital realm with cutting-edge technology solutions. 
 
-I'm a **3rd Year IT Student 🎓 [@ Otago Polytechnic 🔵](www.op.ac.nz)** majoring in **Hardware Engineering & Project Management**. I'm a Tech Enthusiast 💻😃 passionate about learning and working with physical systems. I love building interesting and meaningful products that serve a great deal of purpose.
+I'm a **3rd Year IT Student 🎓 [@ Otago Polytechnic 🔵](www.op.ac.nz)** majoring in **Embedded Systems & Project Management**. I'm a Tech Enthusiast 💻😃 passionate about learning and working with physical systems. I love building interesting and meaningful products that serve a great deal of purpose.
 
 ### Main Projects
 |Project|Role|Tech Stack|
