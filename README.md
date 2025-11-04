@@ -21,8 +21,8 @@ I'm a **3rd Year IT Student 🎓 [@ Otago Polytechnic 🔵](www.op.ac.nz)** majo
 |---|---|---|
 |☁️ [Embedded Fresh Air Monitoring System](https://github.com/OtagoPolytechnic/Air-Quality-Monitoring-System/tree/liz-lilygo-work/hardware)| Lead Hardware Engineer & Project Manager |C++, Arduino, LoRa(WAN), CAD, REST API, TypeScript, React.js, Next.js, Docker, Git Kanban
 |📱 ['Tuteora' Tutoring Mobile App for Android ](https://github.com/LizMintOS/tuteora) | Lead Developer | React.js, Android Studio, TailwindCSS, ShadCN
-|🎮 [Arcade Machine](https://github.com/OtagoPolytechnic/Hardware-projects) 🚧 Link broken | Project Manager | Electron.js, Svelte, Hardware Design, JoyToKey, Trello, Git Kanban, Agile 
-|🪴 [Smart Plant Irrigation & Environment Monitoring System](https://github.com/OtagoPolytechnic/Hardware-projects) 🚧 Link unavailable | Lead Embedded Engineer & Project Manager |  C++, Arduino, I2C
+|🎮 [Arcade Machine](https://github.com/OtagoPolytechnic/Hardware-projects) | Project Manager | Electron.js, Svelte, Hardware Design, JoyToKey, Trello, Git Kanban, Agile 
+|🪴 [Smart Plant Irrigation & Environment Monitoring System](https://github.com/OtagoPolytechnic/Hardware-projects) | Lead Embedded Engineer & Project Manager |  C++, Arduino, I2C
 |💧 [Smart Pot Watering System](https://github.com/LizMintOS/smart-pot) | Lead Engineer | C++, Arduino, I2C
 |🎵 ['Sonus' AI Music Platform Website](https://github.com/LizMintOS/Sonus-Website) | Solo Web Project | Svelte, HTML, CSS, JavaScript
 |♣️ [Poker Game Cross Platform App](https://github.com/LizMintOS/Mobile-Poker-Game) | Lead Developer | React.js, TypeScript, Firebase, IndexDB, LocalStorage, NoSQL, Jest testing, TailwindCSS
