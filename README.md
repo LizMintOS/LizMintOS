@@ -19,12 +19,12 @@ I'm a **3rd Year IT Student 🎓 [@ Otago Polytechnic 🔵](www.op.ac.nz)** majo
 ### Main Projects
 |Project|Role|Tech Stack|
 |---|---|---|
-|☁️ [Embedded Fresh Air Monitoring System](https://github.com/OtagoPolytechnic/Air-Quality-Monitoring-System/tree/liz-lilygo-work/hardware)| Lead Hardware Engineer & Project Manager |C++, Arduino, LoRa, REST API, TypeScript, React.js, Node.js, CAD, Docker, Trello, Git Kanban
+|☁️ [Embedded Fresh Air Monitoring System](https://github.com/OtagoPolytechnic/Air-Quality-Monitoring-System/tree/liz-lilygo-work/hardware)| Lead Hardware Engineer & Project Manager |C++, Arduino, LoRa(WAN), CAD, REST API, TypeScript, React.js, Next.js, Docker, Git Kanban
 |📱 ['Tuteora' Tutoring Mobile App for Android ](https://github.com/LizMintOS/tuteora) | Lead Developer | React.js, Android Studio, TailwindCSS, ShadCN
-|🎮 [Arcade Machine] 🚧 Link broken | Project Manager | Trello, Git Kanban, Agile 
-|🪴 [Smart Plant Irrigation & Environment Monitoring System] 🚧 Link unavailable | Lead Embedded Engineer & Project Manager |  C++, Arduino, I2C, CAD, CAM
-|💧 [Smart Pot Watering System](https://github.com/LizMintOS/smart-pot) | Lead Engineer | C++, Arduino
-|🎵 ['Sonus' AI Music Platform Website](https://github.com/LizMintOS/Sonus-Website) | Lead Web Developer | Svelte, HTML, CSS, JavaScript
+|🎮 [Arcade Machine](https://github.com/OtagoPolytechnic/Hardware-projects) 🚧 Link broken | Project Manager | Electron.js, Svelte, Hardware Design, JoyToKey, Trello, Git Kanban, Agile 
+|🪴 [Smart Plant Irrigation & Environment Monitoring System](https://github.com/OtagoPolytechnic/Hardware-projects) 🚧 Link unavailable | Lead Embedded Engineer & Project Manager |  C++, Arduino, I2C
+|💧 [Smart Pot Watering System](https://github.com/LizMintOS/smart-pot) | Lead Engineer | C++, Arduino, I2C
+|🎵 ['Sonus' AI Music Platform Website](https://github.com/LizMintOS/Sonus-Website) | Solo Web Project | Svelte, HTML, CSS, JavaScript
 |♣️ [Poker Game Cross Platform App](https://github.com/LizMintOS/Mobile-Poker-Game) | Lead Developer | React.js, TypeScript, Firebase, IndexDB, LocalStorage, NoSQL, Jest testing, TailwindCSS
 
 ## Specializations
@@ -36,7 +36,7 @@ I enjoy working on:
   - 📊 Developing AI tools (RAG, CNN for Image Recognition)
   - 🖼  Mobile App Development
   - 🤖 Robotics & Embedded Systems
-- 📝 Currently learning Radio Frequency Fundamentals and RTOS Basics
+- 📝 Currently learning Next.js and RTOS Basics
 - 👯 I’m looking to collaborate on making hardware projects!
 - 📫 Check out my [resume](https://github.com/user-attachments/files/19241049/Elizabeth.CV.pdf)
 
