@@ -2,7 +2,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Black+Ops+One&size=40&duration=3000&pause=1000&color=E10000D7&center=true&multiline=true&repeat=false&width=435&height=75&lines=Liz+Minty)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Black+Ops+One&size=30&duration=3500&pause=1000&color=766B6DD7&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=100&lines=Embedded+Systems+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Black+Ops+One&size=30&duration=3500&pause=1000&color=766B6DD7&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=100&lines=Software+Engineer)](https://git.io/typing-svg)
 
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/gl1tchclub/)](https://github.com/LizMintOS/) 
@@ -11,10 +11,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eminty.me@gmail.com)](mailto:eminty.me@gmail.com)
 </div>
 
+### 📫 Check out my [resume](https://github.com/user-attachments/files/25534285/Elizabeth-Minty-CV.pdf)
+
 ### Mission Brief  
 **Objective:** To infiltrate and dominate the digital realm with cutting-edge technology solutions. 
 
-I'm a **3rd Year IT Student 🎓 [@ Otago Polytechnic 🔵](www.op.ac.nz)** majoring in **Embedded Systems & Project Management**. I'm a Tech Enthusiast 💻😃 passionate about learning and working with physical systems. I love building interesting and meaningful products that serve a great deal of purpose.
+I'm a **Software Engineer** and **IT Graduate 🎓 [@ Otago Polytechnic 🔵](www.op.ac.nz)** with a focus on **Software Engineering & Embedded Systems**. I'm a Tech Enthusiast 💻😃 passionate about AI integration, systems design, and working with physical systems. I love building interesting and meaningful products that serve a great deal of purpose.
 
 ### Main Projects
 |Project|Role|Tech Stack|
@@ -27,18 +29,18 @@ I'm a **3rd Year IT Student 🎓 [@ Otago Polytechnic 🔵](www.op.ac.nz)** majo
 |🎵 ['Sonus' AI Music Platform Website](https://github.com/LizMintOS/Sonus-Website) | Solo Web Project | Svelte, HTML, CSS, JavaScript
 |♣️ [Poker Game Cross Platform App](https://github.com/LizMintOS/Mobile-Poker-Game) | Lead Developer | React.js, TypeScript, Firebase, IndexDB, LocalStorage, NoSQL, Jest testing, TailwindCSS
 
-## Specializations
-- 🧑‍🏫 I’m currently working as a Tutor and a Teaching Assistant [@ Otago Polytechnic 🔵](https://www.op.ac.nz/)
-- 📋 I'm also working as a Planning Technician Officer [@ Dunedin City Council 🟢](https://www.dunedin.govt.nz/home)
+## Experience
+- 🐝 Currently working as a Software Engineer intern [@ Mercury NZ 🟡](https://www.mercury.co.nz/)
 - 👩‍💻 Interned at [@ Education Perfect 🎓](https://www.educationperfect.com/) as a Software Engineer for team Lexicon
+- 🧑‍🏫 Previously helped otherxz as a Software Tutor and a Teaching Assistant for the IT course [@ Otago Polytechnic 🔵](https://www.op.ac.nz/)
+- 📋 Previously worked as a Planning Technician Officer [@ Dunedin City Council 🟢](https://www.dunedin.govt.nz/home)
 
 I enjoy working on:
-  - 📊 Developing AI tools (RAG, CNN for Image Recognition)
+  - 📊 Developing AI tools (RAG, CNN for Image Recognition, integrating AI into multi-part systems)
   - 🖼  Mobile App Development
   - 🤖 Robotics & Embedded Systems
 - 📝 Currently learning Next.js and RTOS Basics
 - 👯 I’m looking to collaborate on making hardware projects!
-- 📫 Check out my [resume](https://github.com/user-attachments/files/19241049/Elizabeth.CV.pdf)
 
 
 ### ⚙️ Some Tools and Tech I use
